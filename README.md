@@ -1,8 +1,6 @@
 # Horiseon-website
 
-**Horiseon** is a website that helps company owners find feasible clients. 
-
-
+**Horiseon** is a website that helps company owners provide information on what services they provide.
 
  Visit the site: [Horiseon](https://sammylwolfson.github.io/horieson-site/)
   _____________________________________________________________________
